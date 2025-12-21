@@ -45,26 +45,6 @@ Inventory-Management-ofmachine-and-spares/
 │── README.md
 │── package.json
 
-🚀 Installation & Setup
-
-Clone the repository
-
-git clone https://github.com/your-username/Inventory-Management-ofmachine-and-spares.git
-
-
-Navigate to the project directory
-
-cd Inventory-Management-ofmachine-and-spares
-
-
-Install dependencies
-
-npm install
-
-
-Run the application
-
-npm start
 
 📈 Future Enhancements
 
